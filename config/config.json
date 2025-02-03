@@ -1,0 +1,16 @@
+{
+    "first_botton_delay":50,
+    "second_botton_delay":50,
+    "third_botton_delay":50,
+    "fourth_botton_delay":50,
+    "fifth_botton_delay":50,
+    "sixth_botton_delay":50,
+    "first_botton_location":[500,500],
+    "second_botton_location":[600,600],
+    "third_botton_location":[700,700],
+    "fourth_botton_location":[800,800],
+    "fifth_botton_location":[800,800],
+    "sixth_botton_location":[900,900],
+    "click_time_randomly_offset_maximum":10,
+    "click_location_randomly_offset_maximum":20
+}
